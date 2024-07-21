@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @potatoscrispy
 - 👀 I’m interested in web design & development
-- 🌱 I’m currently learning different libraries (reactJS)
+- 🌱 I’m currently learning different libraries (angular)
 - 💞️ I’m looking to collaborate on creating creative and interactive web designs
 - 📫 How to reach is throw my email a.elhawary1998199@gmail.com
 - Have Fun
